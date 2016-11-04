@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    //freopen("tt.txt","r",stdin);
+    freopen("tt.txt","r",stdin);
     int n,k,l,i,j,x,y,res=0;
     queue<pair<int, int> >p;
     priority_queue<int>pq;
